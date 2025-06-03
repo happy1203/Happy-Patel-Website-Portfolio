@@ -1,5 +1,6 @@
 
 import { useState } from "react";
+import { Briefcase } from "lucide-react";
 import ProjectCard from "@/components/ProjectCard";
 import ProjectDetail from "@/components/ProjectDetail";
 import { projects, Project } from "@/data/projects";
